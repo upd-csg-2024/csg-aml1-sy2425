@@ -2,7 +2,7 @@
 
 ## Researchers
 
-- **Gabriel Aldrich Calubayan** · [@gabrielcalubayan72](https://github.com/gabrielcalubayan72)  
+- **Gabriel Aldrich S. Calubayan** · [@gabrielcalubayan72](https://github.com/gabrielcalubayan72)  
 - **Angelo Joaquin A. Ogerio** · [@ajogerio](https://github.com/ajogerio)
 
 ## Overview
