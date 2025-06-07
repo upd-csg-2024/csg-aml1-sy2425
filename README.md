@@ -1,4 +1,4 @@
-# Multi-Dataset Adversarial Attack Generation for Evaluating Deepfake Detection Model Resilience
+# Multi-Dataset Adversarial Attack Generation for Evaluating Deepfake Detection Transformer Model Resilience
 
 ## Researchers
 
