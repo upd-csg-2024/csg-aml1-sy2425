@@ -20,7 +20,7 @@ This study evaluates the robustness of the [Deepfake vs Real Image Detection ViT
 | `huggingface_deepfake_vs_real_image_detection/transformer-attack.ipynb` | Generates FGSM L1, L2, and L∞ adversarial examples on the **Deepfake and Real Images dataset** (Karki, n.d.). Also, it simultaneously evaluates model accuracy and stores the results in CSV files. |
 | `huggingface_deepfake_vs_real_image_detection/transformer-attack (New Dataset).ipynb` | Same process as above, but uses the **DiFF dataset** (Cheng et al., 2024) for evaluation. |
 | `huggingface_deepfake_vs_real_image_detection/HuggingFaceViT (Modified).ipynb` | Trains and evaluates the ViT model on the **Deepfake and Real Images dataset** (Karki, n.d.). |
-| `huggingface_deepfake_vs_real_image_detection/HuggingFaceViT (New Dataset).ipynb` | Trains and evaluates the ViT model on the **DiFF dataset**. |
+| `huggingface_deepfake_vs_real_image_detection/HuggingFaceViT (New Dataset).ipynb` | Trains and evaluates the ViT model on the **DiFF dataset** (Cheng et al, 2024). |
 | `cs199/huggingfacevit/*.csv` | Stores all the CSV files generated from the files above. |
 | `huggingface_deepfake_vs_real_image_detection/analysis.ipynb` | Aggregates results from all CSVs from the huggingfacevit folder and generates visualization graphs for error counts and accuracy. |
 
